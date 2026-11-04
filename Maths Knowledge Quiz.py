@@ -118,13 +118,13 @@ if Q10 == Q10answer:
 if score == 10:
     time.sleep(2)
     print(f"Your score is {score}/10, which is a grade A*.")
-elif score >= 8:
+elif score == 9:
     time.sleep(2)
     print(f"Your score is {score}/10, which is a grade A.")
-elif score == 7:
+elif score == 8:
     time.sleep(2)
     print(f"Your score is {score}/10, which is a grade B.")
-elif score == 6:
+elif score >= 6:
     time.sleep(2)
     print(f"Your score is {score}/10, which is a grade C.")
 elif score == 5:
