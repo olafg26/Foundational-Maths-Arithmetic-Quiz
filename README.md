@@ -1,2 +1,2 @@
 # Foundational-Maths-Arithmetic-Quiz
-A program that lists rules for the quiz, giving the user a long reading window before starting the quiz. The program asks 10 varied arithmetic questions and marks as it goes. At the end, it displays the score alongside a set grade between an F and A* to the user. Each correct answer is worth 1 point, and an incorrect answer is 0 points.
+A program that lists rules for the quiz, giving the user a long reading window before starting the quiz. The program asks 10 varied arithmetic questions and marks as it goes. At the end, it displays the score, a set grade between an F and A*, and an "ABOVE", "AVERAGE", and "BELOW" expectations statement to the user. Each correct answer is worth 1 point, and an incorrect answer is 0 points.
