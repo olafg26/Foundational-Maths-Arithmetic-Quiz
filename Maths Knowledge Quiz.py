@@ -117,24 +117,24 @@ if Q10 == Q10answer:
 
 if score == 10:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade A*.")
+    print(f"Your score is {score}/10, which is a grade A*. ABOVE expectations.")
 elif score == 9:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade A.")
+    print(f"Your score is {score}/10, which is a grade A. ABOVE expectations.")
 elif score == 8:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade B.")
+    print(f"Your score is {score}/10, which is a grade B. ABOVE expectations.")
 elif score >= 6:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade C.")
+    print(f"Your score is {score}/10, which is a grade C. AVERAGE expectation.")
 elif score == 5:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade D.")
+    print(f"Your score is {score}/10, which is a grade D. BELOW expectations.")
 elif score == 4:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade E.")
+    print(f"Your score is {score}/10, which is a grade E. BELOW expectations.")
 else:
     time.sleep(2)
-    print(f"Your score is {score}/10, which is a grade F.")
+    print(f"Your score is {score}/10, which is a grade F. BELOW expectations.")
     
     
